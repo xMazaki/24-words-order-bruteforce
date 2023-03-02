@@ -1,4 +1,4 @@
-# 24-words-order-bruteforce
+# Bruteforce search order of 24 words
 Allows you to search for the exact order of 24 words out of order.
 
 ### HOW TO INSTALL
